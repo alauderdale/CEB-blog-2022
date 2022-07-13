@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu-hr</title>
+    <defs>
+        <linearGradient x1="94.9260606%" y1="39.7942439%" x2="0%" y2="61.7006413%" id="linearGradient-1">
+            <stop stop-color="#007EFF" offset="0%"></stop>
+            <stop stop-color="#6FB6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-hr">
+            <circle id="Oval-4" fill="#E9F4FF" cx="25" cy="25" r="25"></circle>
+            <g id="Group-24" transform="translate(10.975610, 13.504213)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="5.33576079" width="27.9758734" height="17.3450415" rx="2.23806987"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.561795967" x="8.95227949" y="17.0856276" width="13.9879367" height="2.79758734" rx="0.839276202"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.307549055" x="17.904559" y="13.1690053" width="7.27372708" height="2.23806987" rx="0.839276202"></rect>
+                <path d="M22.3878504,1.69425684 L22.3878504,1.69425684 L22.3878504,1.69425684 L10.0349431,13.7081603 L2.77328413,6.30192276 L6.76847335,2.38472442 L10.1283852,5.81191015 L14.4757431,1.58407696 C16.6910526,-0.570325548 20.2333905,-0.520996799 22.3878504,1.69425684 Z" id="Path-2" fill="#3851DC" fill-rule="nonzero" opacity="0.776094658"></path>
+            </g>
+        </g>
+    </g>
+</svg>

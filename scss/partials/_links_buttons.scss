@@ -1,0 +1,237 @@
+a{
+	color:$link-color;
+	&:active, &:focus{
+			outline:none;
+			box-shadow:none;
+		}
+	&:hover{
+		color:tint($link-color,30%);
+		text-decoration:none;
+	}
+}
+
+
+
+
+.btn, .elementor-button{
+	border-radius:$base-border-radius;
+	font-weight:700;
+	font-size:$base-font-size;
+	min-width:88px;
+	padding: 8px 16px;
+
+
+	
+	i{
+		font-size:$base-font-size;
+		position:relative;
+		top:3px;
+		margin-right:10px;
+	}
+	&.btn-link{
+		border:none;
+		border-bottom:1px solid $link-color;
+		border-radius:0px;
+		min-width: auto;
+		padding: 4px 0px;
+		&:hover{
+			text-decoration: none;
+			color:shade($link-color,30%)!important;
+			border-bottom-color:shade($link-color,30%);
+		}
+		@include breakpoint(sm) {
+			border:none;
+			white-space:initial;
+		}
+	}
+	//primary buttons, second class is for elementor
+	&.btn-primary, .default-btn &{
+		background:$primary-color;
+		border-color:$primary-color;
+		&:hover{
+			@include button-hover($primary-color);
+		}
+	}
+	&.btn-secondary{
+		background:white;
+		border-color:$lightest-gray-color;
+		color:$text-color;
+		font-weight:normal;
+		&:active{
+			border-color:shade($lightest-gray-color,90%);
+			background:$off-white-dark-color!important;
+			color:$text-color!important;
+		}
+		&:hover{
+			background:$off-white-dark-color;
+		}
+	}
+	&.btn-white{
+		background:white;
+		color:$link-color-dark;
+		font-weight:700;
+		&:hover{
+			
+		}
+	}
+	&.btn-shadow{
+		box-shadow: 0 6px 9px 0 rgba(0,0,0,0.09);
+	}
+	//alert buttons
+	&.btn-danger{
+		background:$danger-color;
+		border-color:$danger-color;
+		&:hover{
+			@include button-hover($danger-color);
+		}
+	}
+	&.btn-success{
+		background:$success-color;
+		border-color:$success-color;
+		&:hover{
+			@include button-hover($success-color);
+		}
+	}
+	&.btn-warning{
+		background:$warning-color;
+		border-color:$warning-color;
+		color:white;
+		&:hover{
+			@include button-hover($warning-color);
+		}
+	}
+	//flat button
+	&.btn-flat{
+		background:transparent;
+		border-color:white;
+		color:$text-color;
+		&:hover{
+			@include button-hover(white);
+		}
+	}
+	//link button
+	&.btn-link{
+		color:$link-color;
+		&:hover{
+			color:shade($link-color,10%);
+		}
+	}
+	&.btn-icon{
+		line-height:1;
+		i{
+			color:$lightest-gray-color;
+			}
+		&:hover, &:focus{
+			i{
+				color:shade($lightest-gray-color,90%);
+			}	
+		}
+	}
+	//white wire
+	&.btn-outline-light{
+		&:hover{
+			color:$link-color;
+		}
+	}
+	//primary wire
+	&.btn-outline-primary, .primary-outline-btn &{
+		color:white;
+		border-color:$secondary-color;
+		background:transparent;
+		&:hover{
+			background:$secondary-color;
+			color:white;
+		}
+		&:active{
+			border-color:$secondary-color;
+			background:shade($secondary-color,40%)!important;
+		}
+	}
+
+	&.btn-outline-link{
+		color:$link-color;
+		border-color:$link-color;
+		&:hover{
+			background:$link-color;
+			color:white;
+		}
+		&:active{
+			border-color:$link-color;
+			background:shade($link-color,40%)!important;
+		}
+	}
+
+	//white btn
+	&.btn-light{
+		color:$link-color;
+		box-shadow: 0 2px 10px 0 rgba(0,0,0,0.10), 0 2px 4px 0 rgba(0,0,0,0.04);
+		background:#fff;
+		border:none;
+		&:hover{
+			background:$off-white-color;
+			border:none;
+		}
+	}
+	&.btn-dark{
+		background:$dark-gray-color;
+		&:hover{
+			background:shade($dark-gray-color,100%)!important;
+		}
+	}
+	//sizes
+	&.btn-lg{
+		padding:.8rem 1rem;
+	}
+	&.btn-sm{
+		font-size: 14px;
+	}
+	&.btn-scroll{
+		color:rgba(255,255,255,.5);
+		&:hover{
+			color:rgba(255,255,255,1);
+		}
+		i{
+			font-size:52px;
+		}
+		&:active, &:focus{
+			outline:none;
+			box-shadow:none;
+		}
+	}
+	&.btn-outline-light {
+		color:white!important;
+		&.active{
+			background:transparent!important;
+		}
+		&:hover{
+			color:$primary-color!important;
+			background:white!important;
+		}
+	}
+}
+
+//make butons stack wekk on mobile
+.btn-pair{
+	@include breakpoint(xs) {
+		.btn{
+			width:100%;
+			margin-top:10px;
+		}
+	}
+}
+
+
+//mobile
+
+  @include breakpoint(md) {
+
+
+  }
+
+
+  @include breakpoint(sm) {
+    .btn-block-sm{
+      width:100%!important;
+    }
+
+  }

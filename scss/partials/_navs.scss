@@ -1,0 +1,35 @@
+.dropdown{
+	&.drpdown-hover{
+		&:hover{
+			.dropdown-menu{
+				display: block; 
+			}
+		}
+	}
+	.dropdown-caret{
+		font-size: 14px;
+		top: 3px;
+		position: relative;
+		color:$extra-light-text-color;
+	}
+}
+
+.dropdown-menu{
+	border-color:$border-color;
+	.dropdown-divider{
+		border-color:$border-color;
+	}
+	a.dropdown-item{
+		&:hover{
+			background-color:$off-white-dark-color;
+		}
+		&:active{
+			background-color:$off-white-dark-color;
+		}
+	}
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+

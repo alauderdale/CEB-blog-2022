@@ -1,0 +1,28 @@
+#primary-footer{
+	background:#082046;
+	color:white;
+	padding:$baseline 0 $baseline*2 0;
+	.divider{
+		border-color:rgba(255,255,255,.1);
+	}
+	.footer-text{
+		color:rgba(255,255,255,.5);
+	}
+	.links-section{
+		margin-bottom:$baseline;
+		a.nav-link{
+			padding:8px 0;
+			color:white;
+			opacity:.7;
+			font-size: 13px;
+			&:hover{
+				opacity:1;
+			}
+		}
+		h5{
+			margin-bottom:$baseline/2;
+			text-transform:uppercase;
+			font-weight:600;
+		}
+	}
+}

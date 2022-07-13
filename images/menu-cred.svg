@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu-cred</title>
+    <defs>
+        <linearGradient x1="88.8421012%" y1="30.78%" x2="0%" y2="69.22%" id="linearGradient-1">
+            <stop stop-color="#E2D4FF" offset="0%"></stop>
+            <stop stop-color="#8B5CFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-cred">
+            <circle id="Oval-4" fill="#F7F3FF" cx="25" cy="25" r="25"></circle>
+            <g id="Group-21" transform="translate(9.756098, 12.195122)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="5.12585366" width="31.1707317" height="19.3258537" rx="2.49365854"></rect>
+                <path d="M11.844878,0 L19.9492683,0 L19.9492683,12.4682927 L18.702439,12.4682927 C14.9151127,12.4682927 11.844878,9.39805806 11.844878,5.61073171 L11.844878,0 L11.844878,0 Z" id="Rectangle" fill="#7D23C9" opacity="0.810342478"></path>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.561795967" x="8.10439024" y="18.8409756" width="15.5853659" height="3.11707317" rx="0.935121951"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.307549055" x="3.7404878" y="14.4770732" width="8.10439024" height="2.49365854" rx="0.935121951"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

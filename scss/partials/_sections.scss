@@ -1,0 +1,17 @@
+
+
+
+//sections
+section{
+  @include breakpoint(md) {
+  }
+  &.inverse-section{
+  	background:$primary-color;
+  	@extend %white_text;
+    .line-above{
+      &:before{
+        background:rgba(255,255,255,.5);
+      }
+    }
+  }
+}

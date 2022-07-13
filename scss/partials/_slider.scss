@@ -1,0 +1,101 @@
+
+// .swiper-section{
+// 	overflow:hidden;
+// 	padding-bottom:$baseline*8;
+// 	padding-top:$baseline*2;
+// 	@include breakpoint(md) {
+// 		padding-bottom:$baseline*6;
+// 		padding-top:10px;
+// 	}
+// }
+
+.swiper-wrapper{
+
+}
+
+.swiper-container {
+
+	.swiper-slide{
+		opacity:.2;
+		&.swiper-slide-active{
+			opacity:1;
+		}
+	}
+}
+
+.swiper-slide{
+	box-shadow: $box-shadow-elv-two;
+}
+
+// .swiper-container {
+// 	overflow:visible;
+// 	.swiper-slide{
+// 		opacity:.2;
+// 		&.swiper-slide-active{
+// 			opacity:1;
+// 			padding:0 40px;
+// 			@include breakpoint(md) {
+// 				padding:0;
+// 			}
+// 		}
+// 		.slide-inner{
+// 			background: #FFFFFF;
+// 			box-shadow: $box-shadow-elv-two;
+// 			border-radius: 10px;
+// 			padding:0 40px;
+// 			@include breakpoint(sm) {
+// 				padding:0 20px;
+// 			}
+// 			.swiper-content-wrapper{
+// 				padding:$baseline*3;
+// 				@include breakpoint(lg) {
+// 					padding:$baseline;
+// 					padding-left:$baseline;
+// 				}
+// 				@include breakpoint(md) {
+// 					padding:$baseline*2 $baseline;
+// 					padding-left:$baseline;
+// 				}
+// 				@include breakpoint(sm) {
+// 					padding:20px 10px 16px 10px;
+// 				}
+// 			}
+// 		}
+// 	}
+// }
+
+// .swiper-button-prev,.swiper-button-next{
+//     background-color: $link-color;
+//     padding: 32px;
+//     border-radius: 100px;
+//     background-size:20%;
+//     margin-top:-35px;
+// }
+
+// .swiper-button-prev{
+//     background-image:url("../images/slider-nav-left.svg");
+//     @include breakpoint(md) {
+//     	margin-left:-40px;
+//     }
+//     @include breakpoint(sm) {
+//     	display:none!important;
+//     }
+// }
+
+// .swiper-button-next{
+// 	background-image:url("../images/slider-nav-right.svg");
+// 	@include breakpoint(md) {
+//     	margin-right:-40px;
+//     }
+//     @include breakpoint(sm) {
+//     	display:none!important;
+//     }
+// }
+
+// .swiper-pagination-bullets{
+// 	    bottom: -60px!important;
+// 	    .swiper-pagination-bullet{
+// 	    	width:12px;
+// 	    	height:12px;
+// 	    }
+// }

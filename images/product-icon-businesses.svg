@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>product-icon-businesses</title>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-15.0%" y="-10.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.134314904 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Menus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-icon-businesses" transform="translate(5.000000, 2.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-65" transform="translate(13.636364, 13.636364)">
+                <circle id="Oval" fill="#00C375" cx="13.44" cy="20.64" r="13.44"></circle>
+                <path d="M27.9054545,-0.545454545 L27.9054545,6.65362121 L35.1054545,6.65462121 L35.1054545,17.3454545 L27.9054545,17.3454545 L27.9054545,24.5454545 L17.2145455,24.5454545 L17.2145455,17.3454545 L10.0145455,17.3454545 L10.0145455,6.65462122 L17.2136212,6.65362121 L17.2146212,-0.545454545 L27.9054545,-0.545454545 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="1.09090909" fill="#4AB88F"></path>
+                <path d="M13.44,7.2 C20.862707,7.2 26.88,13.217293 26.88,20.64 C26.88,21.8001258 26.7330104,22.9259204 26.456639,23.9997758 L17.76,24 L17.76,16.8 L10.56,16.8 L10.5595504,7.50939053 C11.4874979,7.30676337 12.451281,7.2 13.44,7.2 Z" id="Combined-Shape" fill="#267D5C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

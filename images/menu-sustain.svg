@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Path</title>
+    <g id="Segment-pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu---company" transform="translate(-69.000000, -169.000000)" fill="#ABBDBD">
+            <g id="Group-5" transform="translate(20.000000, 7.000000)">
+                <g id="Group-3" transform="translate(49.000000, 159.000000)">
+                    <path d="M2.05000689,7.05 C-0.679993107,9.78 -0.679993107,14.2 2.03000689,16.93 C3.5,13.53 6.12000689,10.69 9.39000689,9 C6.62000689,11.34 4.68000689,14.61 4,18.32 C6.60000689,19.55 9.80000689,19.1 11.9500069,16.95 C15.4300069,13.47 16,3 16,3 C16,3 5.53000689,3.57 2.05000689,7.05 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

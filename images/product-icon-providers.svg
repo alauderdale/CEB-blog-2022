@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>product-icon-providers</title>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-15.0%" y="-10.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.134314904 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Menus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-icon-providers" transform="translate(5.000000, 2.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-61" transform="translate(11.590909, 15.681818)">
+                <rect id="Rectangle" fill="#4AB88F" transform="translate(13.650856, 14.435290) rotate(40.000000) translate(-13.650856, -14.435290) " x="8.04687137" y="0.537406733" width="11.2079701" height="27.7957659"></rect>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="0.896637609" fill="#00C375" cx="21.8794023" cy="16.9223336" r="11.1407223"></circle>
+                <path d="M21.8794023,6.22993011 C23.6669726,6.22993011 25.3520887,6.66858877 26.8329786,7.44413413 L13.4067404,23.4455799 C12.0148673,21.6404329 11.1869988,19.3780628 11.1869988,16.9223336 C11.1869988,11.0170822 15.9741509,6.22993011 21.8794023,6.22993011 Z" id="Combined-Shape" fill="#267D5C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

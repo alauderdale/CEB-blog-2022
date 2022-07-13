@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>menu-icon-education</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu---for-facilities" transform="translate(-33.000000, -225.000000)">
+            <g id="Group" transform="translate(9.000000, 4.000000)">
+                <g id="Group-44" transform="translate(18.000000, 201.000000)">
+                    <g id="Group-4" transform="translate(6.000000, 18.000000)">
+                        <g id="icon-/-rounded" transform="translate(0.000000, 2.000000)">
+                            <g id="Group-6">
+                                <g id="icon-bg-/-Ed" fill="#FFF6D9">
+                                    <circle id="Oval-3" cx="24" cy="24" r="24"></circle>
+                                </g>
+                                <g id="icon-/-product-/-education" transform="translate(6.361446, 5.783133)">
+                                    <g id="Group" transform="translate(6.939759, 4.048193)">
+                                        <g id="Group-8" fill="#F3A02B">
+                                            <g id="Group-7">
+                                                <g id="Group-6">
+                                                    <path d="M0,0 L0,27.468772 L25.0850683,27.468772 L0,0 Z M5.09905745,11.6801486 L15.5788802,23.1555181 L5.16258693,23.1555181 L5.09905745,11.6801486 Z" id="Fill-1"></path>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="Group-20" transform="translate(0.000000, 5.106687)" stroke="#FFFFFF" stroke-linecap="square" stroke-width="0.5">
+                                            <line x1="0.152357509" y1="19.9167949" x2="1.70610534" y2="19.9167949" id="Line"></line>
+                                            <line x1="0.152357509" y1="18.2800363" x2="1.70610534" y2="18.2800363" id="Line"></line>
+                                            <line x1="0.152357509" y1="16.6432778" x2="1.70610534" y2="16.6432778" id="Line"></line>
+                                            <line x1="0.152357509" y1="15.0065193" x2="1.06650256" y2="15.0065193" id="Line"></line>
+                                            <line x1="0.152357509" y1="13.3697608" x2="1.70610534" y2="13.3697608" id="Line"></line>
+                                            <line x1="0.152357509" y1="11.7330023" x2="1.70610534" y2="11.7330023" id="Line"></line>
+                                            <line x1="0.152357509" y1="10.0962438" x2="1.70610534" y2="10.0962438" id="Line"></line>
+                                            <line x1="0.152357509" y1="8.45948531" x2="1.06650256" y2="8.45948531" id="Line"></line>
+                                            <line x1="0.152357509" y1="6.8227268" x2="1.70610534" y2="6.8227268" id="Line"></line>
+                                            <line x1="0.152357509" y1="5.18596829" x2="1.70610534" y2="5.18596829" id="Line"></line>
+                                            <line x1="0.152357509" y1="3.54920979" x2="1.70610534" y2="3.54920979" id="Line"></line>
+                                            <line x1="0.152357509" y1="1.91245128" x2="1.06650256" y2="1.91245128" id="Line"></line>
+                                            <line x1="0.152357509" y1="0.275692771" x2="1.70610534" y2="0.275692771" id="Line"></line>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

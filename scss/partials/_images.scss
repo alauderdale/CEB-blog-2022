@@ -1,0 +1,85 @@
+
+@include breakpoint(xl) {
+
+	.mw-xl-130{
+		max-width: 130%!important;
+	}
+	.mw-xl-150{
+		max-width: 150%!important;
+	}
+
+}
+
+@include breakpoint(lg) {
+
+	.mw-lg-130{
+		max-width: 130%!important;
+	}
+	.mw-lg-150{
+		max-width: 150%!important;
+	}
+
+}
+
+@include breakpoint(md) {
+
+	.mw-md-130{
+		max-width: 130%!important;
+	}
+	.mw-md-150{
+		max-width: 150%!important;
+	}
+
+}
+
+@include breakpoint(sm) {
+
+	.mw-sm-130{
+		max-width: 130%!important;
+	}
+	.mw-sm-150{
+		max-width: 150%!important;
+	}
+	.mw-sm-100{
+		max-width: 100%!important;
+	}
+
+}
+
+@include breakpoint(xs) {
+
+	.mw-xs-130{
+		max-width: 130%!important;
+	}
+	.mw-xs-100{
+		max-width: 100%!important;
+	}
+
+}
+
+
+
+.market-image-left-1{
+	max-width: 150%;
+	position: relative;
+	right:300px;
+	top:50px;
+	@include breakpoint(md) {
+		max-width: 100%;
+		right: 0;
+		top:0;
+	}
+}
+
+.market-image-right-1{
+	max-width: 150%;
+	position: relative;
+	top:50px;
+	@include breakpoint(md) {
+		max-width: 100%;
+		right: 0;
+		top:0;
+	}
+}
+
+

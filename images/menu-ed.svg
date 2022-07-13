@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu-ed</title>
+    <defs>
+        <linearGradient x1="92.3773368%" y1="8.43752905%" x2="-8.35242856%" y2="101.70459%" id="linearGradient-1">
+            <stop stop-color="#FFC8A3" offset="0%"></stop>
+            <stop stop-color="#FA8334" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-ed">
+            <circle id="Oval-4" fill="#FFF8F4" cx="25" cy="25" r="25"></circle>
+            <g id="Group-56" transform="translate(14.024390, 12.804878)">
+                <path d="M2.13365854,5.13658537 L18.4126829,5.13658537 C19.59107,5.13658537 20.5463415,6.09185683 20.5463415,7.2702439 L20.5463415,22.7590244 C20.5463415,23.9374115 19.59107,24.8926829 18.4126829,24.8926829 L5.53170732,24.8926829 C2.47662973,24.8926829 3.74139099e-16,22.4160532 0,19.3609756 L0,7.2702439 C2.99778414e-16,6.09185683 0.955271465,5.13658537 2.13365854,5.13658537 Z" id="Rectangle" fill="#E86B32"></path>
+                <path d="M3.55609756,0 L20.4019258,0 C21.5803129,1.87676974e-15 22.5355844,0.955271465 22.5355844,2.13365854 L22.5355844,18.4126829 C22.5355844,19.59107 21.5803129,20.5463415 20.4019258,20.5463415 L1.42108547e-14,20.5463415 L1.42108547e-14,20.5463415 L1.42108547e-14,3.55609756 C1.39703367e-14,1.59211911 1.59211911,-1.85966906e-15 3.55609756,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.561795967" x="4.92202681" y="7.47691076" width="13.3353659" height="2.66707317" rx="0.800121951"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.307549055" x="8.08300242" y="11.4281303" width="6.93439024" height="2.13365854" rx="0.800121951"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

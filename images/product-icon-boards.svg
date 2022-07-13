@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>product-icon-boards</title>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <filter x="-15.0%" y="-10.0%" width="130.0%" height="130.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.134314904 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Menus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-icon-boards" transform="translate(5.000000, 2.000000)">
+            <g id="Oval">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Group-62" transform="translate(12.954545, 12.954545)">
+                <rect id="Rectangle" fill="#4AB88F" x="12.3033396" y="0.327272727" width="17.6727273" height="33.2727273"></rect>
+                <path d="M12.3681239,4.05718536 L23.9292227,13.0217099 C24.6620559,13.5899519 25.0909091,14.4651597 25.0909091,15.392491 L25.0909091,15.392491 L25.0909091,28.8 C25.0909091,29.6284271 24.7551227,30.3784271 24.2122294,30.9213203 C23.6693362,31.4642136 22.9193362,31.8 22.0909091,31.8 L22.0909091,31.8 L2.45454545,31.8 C1.62611833,31.8 0.87611833,31.4642136 0.333225111,30.9213203 C-0.209668108,30.3784271 -0.545454545,29.6284271 -0.545454545,28.8 L-0.545454545,28.8 L-0.545454545,15.403645 C-0.545454545,14.4686016 -0.109475004,13.5870258 0.633624554,13.0194791 L0.633624554,13.0194791 L12.3681239,4.05718536 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="1.09090909" fill="#267D5C" transform="translate(12.272727, 18.000000) scale(1, -1) translate(-12.272727, -18.000000) "></path>
+                <path d="M12.3026123,4.74545455 L12.3026123,31.1834545 L0.995313386,22.5470362 C0.437988717,22.1213762 0.0918090606,21.4798212 0.0379827614,20.7865791 L0.030612305,20.596355 L0.030612305,7.2 C0.030612305,5.84439198 1.12954974,4.74545455 2.48515776,4.74545455 L2.48515776,4.74545455 L12.3026123,4.74545455 Z" id="Combined-Shape" fill="#00C375"></path>
+            </g>
+        </g>
+    </g>
+</svg>

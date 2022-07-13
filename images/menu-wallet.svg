@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu-wallet</title>
+    <defs>
+        <linearGradient x1="88.8421012%" y1="30.2467046%" x2="0%" y2="69.7532954%" id="linearGradient-1">
+            <stop stop-color="#52F6AC" offset="0%"></stop>
+            <stop stop-color="#1EC67A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New-icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-wallet">
+            <circle id="Oval-4" fill="#E4FFF3" cx="25" cy="25" r="25"></circle>
+            <g id="Group-26" transform="translate(10.329101, 12.839718)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0.521302064" y="5.65383648" width="28.7837433" height="18.0918113" rx="2.31804878"></rect>
+                <path d="M11.9676204,-5.76281547 C13.6268707,-5.76811328 14.9762535,-4.42731987 14.9815513,-2.76806957 C14.9815719,-2.76163569 14.9815718,-2.75520177 14.981551,-2.74876789 L14.9168462,17.2730939 L14.9168462,17.2730939 C11.5983456,17.2836895 8.89957986,14.6021027 8.88898424,11.2836021 C8.88894315,11.2707343 8.8889434,11.2578665 8.88898499,11.2449987 L8.93414634,-2.72945917 C8.93955323,-4.40253679 10.2945425,-5.75747351 11.9676204,-5.76281547 Z" id="Rectangle" fill="#10AF99" opacity="0.88971657" transform="translate(11.930382, 5.759966) scale(-1, 1) rotate(104.000000) translate(-11.930382, -5.759966) "></path>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.561795967" x="4.3591345" y="17.066592" width="14.3918716" height="2.91803408" rx="0.869268293"></rect>
+                <rect id="Rectangle" fill="#FFFFFF" opacity="0.307549055" x="4.3591345" y="13.1758799" width="7.48377326" height="2.33442727" rx="0.869268293"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>menu-icon-overview</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9844934%" y1="100.178167%" x2="49.9844934%" y2="0.200269542%" id="linearGradient-1">
+            <stop stop-color="#47B977" offset="0%"></stop>
+            <stop stop-color="#027A60" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Menu---solutions" transform="translate(-42.000000, -43.000000)">
+            <g id="icon-/-rounded" transform="translate(42.000000, 43.000000)">
+                <g id="Group-6">
+                    <g id="icon-bg-/-neutral" fill="#F2F5F8">
+                        <circle id="Oval-3" cx="24" cy="24" r="24"></circle>
+                    </g>
+                    <g id="icon-/-product-/-EverCheck" transform="translate(6.361446, 5.783133)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                        <path d="M21.1518072,24 C19.2433735,25.9084337 16.1204819,25.9084337 14.2120482,24 C12.3036145,22.0915663 12.3036145,18.9686747 14.2120482,17.060241 C15.1373494,16.1349398 16.4096386,15.6144578 17.739759,15.6144578 L20.4578313,15.6144578 L16.9301205,19.1421687 L19.0698795,21.2819277 L26.2409639,14.1108434 L19.0698795,6.93975904 L16.9301205,9.07951807 L20.4578313,12.6072289 L17.7975904,12.6072289 C17.7975904,12.6072289 17.739759,12.6072289 17.739759,12.6072289 C15.6578313,12.6072289 13.6337349,13.4168675 12.1301205,14.9204819 C9.06506024,17.9855422 9.06506024,23.0168675 12.1301205,26.0819277 C13.6915663,27.6433735 15.7156627,28.3951807 17.739759,28.3951807 C19.7638554,28.3951807 21.7879518,27.6433735 23.3493976,26.0819277 C24.853012,24.5783133 25.6626506,22.6120482 25.6626506,20.4722892 L22.6554217,20.4722892 C22.5975904,21.860241 22.0771084,23.0746988 21.1518072,24 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
