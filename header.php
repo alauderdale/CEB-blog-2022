@@ -27,11 +27,13 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
   <script src="<?php bloginfo('template_url'); ?>/bower_components/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
 
+<!--   <link rel="stylesheet"  href="<?php bloginfo('template_url'); ?>/css/main.css" type="text/css" media="all">
+ -->
 
   <?php wp_head(); ?>
 
 </head>
-<body class='styles styles_index index <?php echo $value; ?>'>
+<body class=''>
     <div id='responsive-menu-background-wrapper'></div>
     <nav class='primary-navbar navbar navbar-expand-xl navbar-light clear-header' id='primary-nav'>
       <div class='container'>
@@ -175,6 +177,18 @@
                             </div>
                           </div>
                         </a>
+                        <a class='dropdown-item primary-hover' href='<?php echo get_site_url(); ?>'>
+                          <div class='media'>
+                            <i class="material-icons">
+                              chevron_right
+                            </i>
+                            <div class='media-body'>
+                              <h4 class='mt-0 medium-font quarter-margin-bottom'>
+                                Blog
+                              </h4>
+                            </div>
+                          </div>
+                        </a>
                       </div><!-- end of dropdown inner wrapper -->
                     </div><!-- end of col -->
                   </div><!-- end of row -->
@@ -189,10 +203,10 @@
           </ul>
           <div class='action-buttons'>
             <form class='form-inline'>
-              <a class='btn btn-secondary half-margin-right' href="<?php the_field('sign_in_link', 'option'); ?>">
+              <a class='btn btn-secondary half-margin-right' href="https://launchpad.cebroker.com/login">
                 Sign in
               </a>
-				<a href="https://marketing.evercheck.com/schedule-demo/" class='btn btn-primary half-margin-right' style='font-weight:600;' >
+				<a href="https://cebroker.com/account/freetrial" class='btn btn-primary half-margin-right' style='font-weight:600;' >
               7 day trial
             </a>
             </form>

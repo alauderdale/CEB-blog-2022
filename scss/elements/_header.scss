@@ -84,13 +84,21 @@
 			}
 		}
 		.dropdown-menu{
+
 			top:90%;
 			box-shadow: $box-shadow-elv-three;
 			animation: 0.25s show-menu ease-out forwards;
 			border-radius:5px;
 			border:none;
+			h1,h2,h3,h4,h5,h6,p{
+				font-family: $body-font-name;
+			}
 			h3,h4,h5,h6,p{
 				margin:0;
+
+			}
+			h4{
+				font-size: 14px;
 			}
 			.dropdown-header{
 				text-transform: uppercase;

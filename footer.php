@@ -10,7 +10,7 @@
       <div class='container'>
         <div class='row'>
           <div class='col'>
-            <h4 class='no-margin-bottom white-text-color text-center'>
+            <p class='no-margin-bottom white-text-color text-center'>
               <img class='half-margin-right' src='<?php bloginfo('template_url'); ?>/images/icon-energy.svg'>
               CE Broker now offsets 100% of our energy consumption with renewable energy certificates.
               <span class="bold-font">
@@ -18,7 +18,7 @@
                   Learn more
                 </a>
             </span>
-            </h4>
+            </p>
           </div>
         </div>
         <div class='divider double-margin-top double-margin-bottom'></div>

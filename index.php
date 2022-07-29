@@ -12,8 +12,6 @@
  */
 
 get_header(); ?>
-<!-- used to style the header when there's no background image on the right -->
-<?php get_template_part( 'content', 'header-inject' ); ?>
 
 
 
