@@ -232,6 +232,42 @@ p{
 
 .post-content{
 
+blockquote{
+  padding:40px;
+  border:1px solid $border-color;
+  border-radius:10px;
+  text-align: center;
+  margin: 40px 0;
+  position:relative;
+  p{
+    font-weight: 900;
+    font-size: 1.5rem;
+  }
+  cite{
+    font-style:normal;
+  }
+  &:before{
+    content:"";
+    width:43px;
+    height:32px;
+    display: block;
+    top: -15px;
+    left: 0px;
+    position:absolute;
+    background:url("../images/quote-top.svg") no-repeat;
+  }
+  &:after{
+    content:"";
+    width:43px;
+    height:32px;
+    display: block;
+    bottom: -15px;
+    right: 0px;
+    position:absolute;
+    background:url("../images/quote-bottom.svg") no-repeat;
+  }
+}
+
 ul,ol{
   padding-left: 0px;
   margin: 32px 0px;
